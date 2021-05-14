@@ -1,4 +1,4 @@
-## Toyota Prius / ZVW30 <img src="https://user-images.githubusercontent.com/43826393/118313791-7960d400-b51d-11eb-8940-1029d7a72329.png" width="16">
+## Toyota Prius / ZVW30 - For Assetto Corsa.
 
 <img src="https://user-images.githubusercontent.com/43826393/118315429-b75ef780-b51f-11eb-842d-16f4eeb8b754.jpg" width="800">
 
@@ -9,6 +9,8 @@ BHP : 523whp</br>
 Torque : 650 Nm</br>
 Weight : 1250kg</br>
 Drive wheel : FWD</br>
+Tire : Semi-Slick</br>
+Wheel : Enkei nt03rr</br>
 <img src="https://user-images.githubusercontent.com/43826393/118314473-626eb180-b51e-11eb-99ff-2bd1f0254ac4.jpg" width="200">
 
 ### 35 Color / Skins
@@ -54,3 +56,9 @@ Drive wheel : FWD</br>
 ![Screenshot_f_toyota_prius_s3_chang_13-3-121-22-16-55](https://user-images.githubusercontent.com/43826393/118316055-8a5f1480-b520-11eb-85ce-ad1710a0a7ea.jpg)
 ![Screenshot_f_toyota_prius_s3_chang_13-3-121-21-45-32](https://user-images.githubusercontent.com/43826393/118316073-90ed8c00-b520-11eb-9a95-1f5cb711ee9a.jpg)
 
+### Credit : 
+<a href="https://www.racedepartment.com">Racedepartment</a></br>
+<a href="https://assettoland.wixsite.com/assettoland">Assettoland</a></br>
+<a href="https://www.facebook.com/groups/535183760515943">HOT HEAD RACER (Assetto Corsa Thailand)</a></br>
+
+##### **** All information is provided for entertainment purposes only.
