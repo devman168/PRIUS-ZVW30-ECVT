@@ -1,7 +1,6 @@
-## Toyota Prius / ZXV30 / Stage 1  <img src="https://user-images.githubusercontent.com/43826393/118313791-7960d400-b51d-11eb-8940-1029d7a72329.png" width="28">
+## Toyota Prius / ZVW30 <img src="https://user-images.githubusercontent.com/43826393/118313791-7960d400-b51d-11eb-8940-1029d7a72329.png" width="16">
 
- 
-<img src="https://user-images.githubusercontent.com/43826393/118314473-626eb180-b51e-11eb-99ff-2bd1f0254ac4.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/43826393/118315429-b75ef780-b51f-11eb-842d-16f4eeb8b754.jpg" width="800">
 
 ### Car Specification
 Engine : 1.8L / NA </br>
@@ -9,6 +8,13 @@ Transmission : E-CVT</br>
 BHP : 523whp</br>
 Torque : 650 Nm</br>
 Weight : 1250kg</br>
+Drive wheel : FWD</br>
+<img src="https://user-images.githubusercontent.com/43826393/118314473-626eb180-b51e-11eb-99ff-2bd1f0254ac4.jpg" width="200">
+
+### 35 Color / Skins
+<img src="https://user-images.githubusercontent.com/43826393/118315342-9d251980-b51f-11eb-9c4f-4d588064e901.jpg" width="400">
+
+
 
 ### You can customize it as follows.
 
