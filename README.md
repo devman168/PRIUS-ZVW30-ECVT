@@ -1,6 +1,7 @@
 ## Toyota Prius / ZVW30 - For Assetto Corsa.
 
-<img src="https://user-images.githubusercontent.com/43826393/118315429-b75ef780-b51f-11eb-842d-16f4eeb8b754.jpg" width="800">
+![__custom_showroom_1621013471](https://user-images.githubusercontent.com/43826393/118307586-179c6c00-b515-11eb-9423-e95b987aa14b.jpg)
+![__custom_showroom_1621013524](https://user-images.githubusercontent.com/43826393/118307590-19fec600-b515-11eb-9040-40fa1c84a238.jpg)
 
 ### Car Specification
 Engine : 1.8L / NA </br>
@@ -23,12 +24,15 @@ Wheel : Enkei nt03rr</br>
 1. License Plate
    - Images Size : 300x100 px AS jpg ( Default : กท8686 ฉะเชิงเทรา TH) 
    - Put the file : [assettocorsa_game_path\content\cars\f_toyota_prius_stage1\skins\your_color]</br></br>
+     ![license_plate](https://user-images.githubusercontent.com/43826393/118325700-06138e00-b52e-11eb-94fc-64e2d295a388.jpg)</br>
+     <img src="https://user-images.githubusercontent.com/43826393/118325871-4ecb4700-b52e-11eb-832e-cb2ea59e2960.jpg" width="300"> 
+
+
 3. Vinyl Designs
    - You can open files body.psd with photoshop. [assettocorsa_game_path\content\cars\f_toyota_prius_stage1\skins\silver\body.psd]</br>
    - After edit file body.psd , You can save and export file body.png in same directory </br></br>
 
-![__custom_showroom_1621013471](https://user-images.githubusercontent.com/43826393/118307586-179c6c00-b515-11eb-9423-e95b987aa14b.jpg)
-![__custom_showroom_1621013524](https://user-images.githubusercontent.com/43826393/118307590-19fec600-b515-11eb-9040-40fa1c84a238.jpg)
+<img src="https://user-images.githubusercontent.com/43826393/118315429-b75ef780-b51f-11eb-842d-16f4eeb8b754.jpg" width="800">
 
 ![Screenshot_f_toyota_prius_stage1_chang_15-4-121-2-5-5](https://user-images.githubusercontent.com/43826393/118321141-6521d480-b527-11eb-961c-3e73d09c7d40.jpg)
 ![Screenshot_f_toyota_prius_stage1_chang_15-4-121-2-4-15](https://user-images.githubusercontent.com/43826393/118321149-67842e80-b527-11eb-956a-7a7d2dad7aa6.jpg)
@@ -55,6 +59,9 @@ Wheel : Enkei nt03rr</br>
 ![Screenshot_hothead_honda_civic_fd_chang_13-3-121-6-18-55](https://user-images.githubusercontent.com/43826393/118308007-a1e4d000-b515-11eb-9288-f9963332657e.jpg)
 ![Screenshot_f_toyota_prius_s3_chang_13-3-121-22-16-55](https://user-images.githubusercontent.com/43826393/118316055-8a5f1480-b520-11eb-85ce-ad1710a0a7ea.jpg)
 ![Screenshot_f_toyota_prius_s3_chang_13-3-121-21-45-32](https://user-images.githubusercontent.com/43826393/118316073-90ed8c00-b520-11eb-9a95-1f5cb711ee9a.jpg)
+![__custom_showroom_1618546333](https://user-images.githubusercontent.com/43826393/118326506-43c4e680-b52f-11eb-96de-443ed34c322f.jpg)
+
+
 
 ### Credit : 
 <a href="https://www.racedepartment.com">Racedepartment</a></br>
