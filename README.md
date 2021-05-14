@@ -24,7 +24,9 @@ Wheel : Enkei nt03rr</br>
 1. License Plate
    - Images Size : 300x100 px AS jpg ( Default : กท8686 ฉะเชิงเทรา TH) 
    - Put the file : [assettocorsa_game_path\content\cars\f_toyota_prius_stage1\skins\your_color]</br></br>
-   - ![license_plate](https://user-images.githubusercontent.com/43826393/118325700-06138e00-b52e-11eb-94fc-64e2d295a388.jpg)</br>
+     ![license_plate](https://user-images.githubusercontent.com/43826393/118325700-06138e00-b52e-11eb-94fc-64e2d295a388.jpg)</br>
+     <img src="https://user-images.githubusercontent.com/43826393/118325871-4ecb4700-b52e-11eb-832e-cb2ea59e2960.jpg" width="300"> 
+
 
 3. Vinyl Designs
    - You can open files body.psd with photoshop. [assettocorsa_game_path\content\cars\f_toyota_prius_stage1\skins\silver\body.psd]</br>
