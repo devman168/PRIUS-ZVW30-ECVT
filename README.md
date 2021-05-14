@@ -31,3 +31,6 @@ Drive wheel : FWD</br>
 ![Screenshot_f_toyota_prius_dct_midfield_raceway_16-3-121-5-26-9](https://user-images.githubusercontent.com/43826393/118307835-6c3fe700-b515-11eb-88d5-1d584096fef6.jpg)
 ![Screenshot_f_toyota_prius_dct_midfield_raceway_16-3-121-5-59-18](https://user-images.githubusercontent.com/43826393/118307865-795cd600-b515-11eb-9a49-79cc809738a7.jpg)
 ![Screenshot_hothead_honda_civic_fd_chang_13-3-121-6-18-55](https://user-images.githubusercontent.com/43826393/118308007-a1e4d000-b515-11eb-9288-f9963332657e.jpg)
+![Screenshot_f_toyota_prius_s3_chang_13-3-121-22-16-55](https://user-images.githubusercontent.com/43826393/118316055-8a5f1480-b520-11eb-85ce-ad1710a0a7ea.jpg)
+![Screenshot_f_toyota_prius_s3_chang_13-3-121-21-45-32](https://user-images.githubusercontent.com/43826393/118316073-90ed8c00-b520-11eb-9a95-1f5cb711ee9a.jpg)
+
