@@ -1,7 +1,7 @@
 ## Toyota Prius / ZXV30 / Stage 1
 ### Car Specification
 Engine : 1.8L </br>
-Transmission : e-CVT</br>
+Transmission : E-CVT</br>
 BHP : 523whp</br>
 Torque : 650 Nm</br>
 Weight : 1250kg</br>
