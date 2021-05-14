@@ -1,6 +1,10 @@
-## Toyota Prius / ZXV30 / Stage 1
+## Toyota Prius / ZXV30 / Stage 1  <img src="https://user-images.githubusercontent.com/43826393/118313791-7960d400-b51d-11eb-8940-1029d7a72329.png" width="28">
+
+ 
+<img src="https://user-images.githubusercontent.com/43826393/118314473-626eb180-b51e-11eb-99ff-2bd1f0254ac4.jpg" width="200">
+
 ### Car Specification
-Engine : 1.8L </br>
+Engine : 1.8L / NA </br>
 Transmission : E-CVT</br>
 BHP : 523whp</br>
 Torque : 650 Nm</br>
