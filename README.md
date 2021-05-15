@@ -40,7 +40,6 @@ Wheel : Enkei nt03rr</br>
 ![Screenshot_f_toyota_prius_stage1_chang_15-4-121-2-6-30](https://user-images.githubusercontent.com/43826393/118321166-6c48e280-b527-11eb-9c16-b92ea2bb2b49.jpg)
 ![Screenshot_f_toyota_prius_stage1_chang_15-4-121-2-30-53](https://user-images.githubusercontent.com/43826393/118321201-7ec31c00-b527-11eb-9c10-4708a0d8a688.jpg)
 ![Screenshot_f_toyota_prius_stage1_chang_15-4-121-2-28-52](https://user-images.githubusercontent.com/43826393/118321214-8256a300-b527-11eb-8352-9f2b4afd790b.jpg)
-![Screenshot_f_toyota_prius_stage1_chang_15-4-121-2-6-30](https://user-images.githubusercontent.com/43826393/118321222-85519380-b527-11eb-8791-0e1e566180ab.jpg)
 ![Screenshot_f_toyota_prius_stage1_chang_15-4-121-2-32-33](https://user-images.githubusercontent.com/43826393/118321231-87b3ed80-b527-11eb-87ff-b0aea70c28d5.jpg)
 ![Screenshot_hothead_honda_civic_fd_chang_15-4-121-2-27-13](https://user-images.githubusercontent.com/43826393/118321393-b8942280-b527-11eb-843b-efe208c702a4.jpg)
 ![Screenshot_hothead_honda_civic_fd_chang_15-4-121-2-37-10](https://user-images.githubusercontent.com/43826393/118321413-bfbb3080-b527-11eb-9d50-75b1f4b604d2.jpg)
