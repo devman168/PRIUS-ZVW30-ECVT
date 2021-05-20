@@ -1,8 +1,3 @@
-<head>
-<meta property="og:title" content="PRIUS-ZVW30-ECVT" />
-<meta property="og:image" content="https://user-images.githubusercontent.com/43826393/118307586-179c6c00-b515-11eb-9423-e95b987aa14b.jpg">
-</head>
-
 ## Toyota Prius / ZVW30 - For Assetto Corsa.
 
 ![__custom_showroom_1621013471](https://user-images.githubusercontent.com/43826393/118307586-179c6c00-b515-11eb-9423-e95b987aa14b.jpg)
