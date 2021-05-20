@@ -3,9 +3,8 @@
 </head>
 
 ## Toyota Prius / ZVW30 - For Assetto Corsa.
-
-![__custom_showroom_1621013471](https://user-images.githubusercontent.com/43826393/118307586-179c6c00-b515-11eb-9423-e95b987aa14b.jpg)
-![__custom_showroom_1621013524](https://user-images.githubusercontent.com/43826393/118307590-19fec600-b515-11eb-9040-40fa1c84a238.jpg)
+<img src="https://user-images.githubusercontent.com/43826393/118307586-179c6c00-b515-11eb-9423-e95b987aa14b.jpg" width="100%"> 
+<img src="https://user-images.githubusercontent.com/43826393/118307590-19fec600-b515-11eb-9040-40fa1c84a238.jpg" width="100%">  
 
 ### Car Specification
 Engine : 1.8L / NA </br>
